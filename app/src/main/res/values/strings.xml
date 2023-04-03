@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name" translatable="false">SmartAlert</string>
+    <string name="welcome">Welcome to Smart Alert! Pease Login or Sign Up!</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="enterPass">Enter Password</string>
+    <string name="reEnterPass">Enter again Password</string>
+    <string name="email">Enter Email</string>
+    <string name="signout">Sign Out</string>
+    <string name="welcomeSimple">Welcome! Please choose one of the following!</string>
+    <string name="warnTheAdmin">Warn for emergency!</string>
+    <string name="comments">comments</string>
+    <string name="startReceivingAdmin">Start Receiving Messages</string>
+    <string name="StopReceiving">Stop Receiving</string>
+    <string name="decline">Decline Alert</string>
+    <string name="accept">Accept Alert</string>
+    <string name="moreInfo">More Info</string>
+    <string name="messages">Messages</string>
+    <string name="submitDanger">Submit Danger</string>
+    <string name="alarms">Activated Alarms</string>
+    <string name="statistics">Statistics</string>
+    <string name="dangerLevel">"Danger Level: "</string>
+    <string name="times">Times Reported</string>
+    <string name="flood">Flood</string>
+    <string name="fire">Fire</string>
+    <string name="earthquake">Earthquake</string>
+    <string name="photo">Enter Photo</string>
+    <string name="onDemand">On Demand</string>
+    <string name="energized">Energized</string>
+    <string name="rejected">Rejected</string>
+    <string name="error">Error</string>
+    <string name="nothingChosen">You haven\'t chosen any registry. First do that and then push the button you want.</string>
+    <string name="published">Published!</string>
+    <string name="delete">Delete Alarm</string>
+    <string name="gps">The GPS is turned of Please open it!</string>
+    <string name="success">Saved!</string>
+    <string name="newdanger">New Danger</string>
+    <string name="successReg">You have signed up!</string>
+    <string name="suc">Success</string>
+    <string name="notPasswords">The passwords are not the same!</string>
+    <string name="care">Be Careful!</string>
+    <string name="area">in your Area!</string>
+    <string name="alreadyThere">There is already a Danger Like this in Alarms</string>
+    <string name="category">Category:</string>
+
+</resources>

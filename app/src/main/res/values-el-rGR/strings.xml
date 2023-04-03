@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartAlert</string>
+    <string name="welcome">Καλωσήρθατε στην Έξυπνη Ειδοποίηση! Συνδεθείτε ή Εγγραφείτε!</string>
+    <string name="signup">Εγγραφή</string>
+    <string name="login">Σύνδεση</string>
+    <string name="enterPass">Εισάγετε Κωδικό</string>
+    <string name="reEnterPass">Εισάγετε ξανά Κωδικό</string>
+    <string name="email">Εισάγετε Email</string>
+    <string name="signout">Αποσύνδεση</string>
+    <string name="welcomeSimple">Καλωσόρισες! Παρακαλώ επίλεξε ένα από τα παρακάτω!</string>
+    <string name="warnTheAdmin">Ειδοποίηση Περιστατικού Υψηλού Κινδύνου!</string>
+    <string name="comments">Σχόλια</string>
+    <string name="startReceivingAdmin">Λήψη Μηνυμάτων</string>
+    <string name="StopReceiving">Παύση Λήψης Μηνυμάτων</string>
+    <string name="decline">Απόρριψη Συναγερμού</string>
+    <string name="accept">Αποδοχή Συναγερμού</string>
+    <string name="moreInfo">Περισσότερες Πληροφορίες</string>
+    <string name="messages">Μηνύματα</string>
+    <string name="submitDanger">Υποβολή Κινδύνου</string>
+    <string name="alarms">Ενεργοποιημένοι Συναγερμοί</string>
+    <string name="statistics">Στατιστικά</string>
+    <string name="dangerLevel">"Βαθμός Επικινδυνότητας: "</string>
+    <string name="times">Φορές που Αναφέρθηκε</string>
+    <string name="flood">Πλυμήρα</string>
+    <string name="fire">Πυρκαγιά</string>
+    <string name="earthquake">Σεισμός</string>
+    <string name="photo">Εισαγωγή Φωτογραφίας</string>
+    <string name="onDemand">Σε Αναμονή</string>
+    <string name="energized">Ενεργοποιήθηκε</string>
+    <string name="rejected">Απορρίφθηκε</string>
+    <string name="error">Σφάλμα</string>
+    <string name="nothingChosen">Δεν έχετε επιλέξει κάποια εγγραφή. Πρώτα επιλέξτε κάποια εγγραφή και μετά επιλέξτε την ενέργεια του θέλετε να κάνετε.</string>
+    <string name="published">Δημοσιοποιήθηκε!</string>
+    <string name="delete">Διαγραφή Συναγερμού</string>
+    <string name="gps">Το gps είναι κλειστό. Παρακαλώ ανοίξτε το!</string>
+    <string name="success">Αποθηκεύτηκε!</string>
+    <string name="newdanger">Νέος Κίνδυνος</string>
+    <string name="successReg">Εγγραφήκατε με επιτυχία!</string>
+    <string name="suc">Επυτηχία!</string>
+    <string name="notPasswords">Οι Κωδικοί δεν είναι οι ίδιοι!</string>
+    <string name="care">Προσοχή!</string>
+    <string name="area">" Στην Περιοχή σας!"</string>
+    <string name="alreadyThere">Υπάρχει ήδη ένας ενεργοποιημένος Συναγερμός Παρόμοιος!</string>
+    <string name="category">Κατηγορία:</string>
+
+</resources>

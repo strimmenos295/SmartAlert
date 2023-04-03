@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415573521425",
+    "project_id": "alarmtest-4010e",
+    "storage_bucket": "alarmtest-4010e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415573521425:android:787ebe5367a6ecbf3d6db0",
+        "android_client_info": {
+          "package_name": "strimmenos295.SmartAlert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415573521425-9i18ji9i6tjjoevbq83j3f9gem74o3i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP3Z_a9DbXlV8CpxtLNT5SV1R4HbG3Y_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415573521425-9i18ji9i6tjjoevbq83j3f9gem74o3i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
